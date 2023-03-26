@@ -16,5 +16,15 @@
 - http://www.cross-platform-blog.com/coding-dojo-katas/javascript-coding-dojo-dictionaryreplacer-kata/ 
 - https://1kevinson.com/test-driven-development-for-the-rest-of-us/ 
 - https://exercism.org/ 
+- https://www.codurance.com/katalyst/random-number-kata
+- https://github.com/CodiumTeam/print-date -> where I recommend doing it twice the first time with mocks and the second time you implement the mocks
+- https://www.codurance.com/katalyst/atm-machine
+- https://www.codurance.com/katalyst/shopping-cart-kata
+- https://www.codurance.com/katalyst/bank
+- https://github.com/CodiumTeam/print-date
+- https://www.codurance.com/katalyst/atm-machine
+- https://www.codurance.com/katalyst/shopping-cart-kata
+- https://www.codurance.com/katalyst/bank
+
 
 
