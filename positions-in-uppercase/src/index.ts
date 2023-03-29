@@ -1,12 +1,14 @@
 export function getUpperCaseLetterPositions(word: string): number[] {
+  let i = 0;
   if (word.length > 0) {
-    if (word[0] == word[0].toUpperCase()) {
+    if (word[i] == word[i].toUpperCase()) {
       return [0];
     }
 
+    i += 1;
     if (word.length > 1) {
-      if (word[1] == word[1].toUpperCase()) {
-        return [1];
+      if (word[i] == word[i].toUpperCase()) {
+        return [i];
       }
     }
   }
