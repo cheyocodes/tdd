@@ -16,5 +16,6 @@ describe('getUpperCaseLetterPositionns', () => {
   it('finds the index of the uppercase char', () => {
     expect(getUpperCaseLetterPositions('C')).toEqual([0]);
     expect(getUpperCaseLetterPositions('aC')).toEqual([1]);
+    expect(getUpperCaseLetterPositions('AC')).toEqual([0, 1]);
   });
 });
